@@ -9,7 +9,7 @@ public class ProductSum {
 
         while (true) {
             int product = sc.nextInt();
-            if (product <= -1) {
+            if (product == -1) {
                 break;
             }
 
